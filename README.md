@@ -3,6 +3,7 @@
 
 - 📫 How to reach me: 
   eilidhgeddes@gmail.com
+ https://eilidhgeddes.github.io/
 
 <!---
 eilidhgeddes/eilidhgeddes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
