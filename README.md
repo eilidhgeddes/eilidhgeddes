@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @eilidhgeddes
-- 👀 I’m interested in the economics of healthcare markets. Right now, I'm working on how insurance prevalence and composition affects provider markets. 
+- 👀 I’m interested in the economics of healthcare markets. Right now, I'm working on how community rating regulations affect outcomes in individual insurance markets. 
 
 - 📫 How to reach me: 
   eilidhgeddes@gmail.com
